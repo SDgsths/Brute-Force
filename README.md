@@ -1,4 +1,9 @@
 # Brute-Force
+
+made for:
+windows 64
+windows 32
+
 How to use:
 Start the application
 Hover your mouse over the password input box
